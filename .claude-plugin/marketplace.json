@@ -1,0 +1,23 @@
+{
+  "name": "claude-code-plugins",
+  "owner": {
+    "name": "takutakahashi",
+    "email": "and3k0208@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins marketplace - A collection of useful skills and agents for Claude Code",
+    "repository": "https://github.com/takutakahashi/claude-code-plugins"
+  },
+  "plugins": [
+    {
+      "name": "build-test-tools",
+      "source": "./plugins/build-test-tools",
+      "description": "Automated build and test execution tools. Supports Node.js, Python, Rust, Go, Java, Ruby and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "takutakahashi"
+      },
+      "keywords": ["build", "test", "automation", "ci", "testing"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "build-test-tools",
+  "version": "1.0.0",
+  "description": "Automated build and test execution tools for Claude Code. Provides subagents and skills for building projects, running tests, analyzing failures, and suggesting fixes.",
+  "author": {
+    "name": "takutakahashi",
+    "email": "and3k0208@gmail.com"
+  },
+  "homepage": "https://github.com/takutakahashi/claude-code-plugins",
+  "repository": "https://github.com/takutakahashi/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["build", "test", "automation", "ci", "testing", "nodejs", "python", "rust", "go", "java"]
+}
